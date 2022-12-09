@@ -5,9 +5,9 @@
 
 
 <div style="display:inline">
-  <a href="https://beacons.ai/Diogo-Peixoto">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Peixoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peixoto&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="#">
+  <img height="165em" src="#"/>
+  <img height="165em" src="#"/>
 </div>
   
   ## Skills 🚀 
@@ -24,6 +24,6 @@
   ## Contatos ☎
   
 <div>
-  <a href="mailto:diogosoarespeixoto41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diogo-soares-peixoto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
+  <a href="mailto:tomasbenjamin.l90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-benjam%C3%ADn-lillo-sanhueza-0bb4a5103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
 </div>
