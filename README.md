@@ -1,7 +1,11 @@
-# Olá👋
-<p>Sou um desenvolvedor júnior à procura da primeira oportunidade , buscando transformar sonhos em realidade através da programação.</p>
-<p>No momento estudo na Kenzie Academy Brasil, curso Full Stack  com  carga horária de 2000h.</p>
+ <h1 align="center">Hello World!👋, Eu sou Tomás Lillo</h1>
+<h3 align="center">👨‍💻 Desenvolvedor Web Full Stack</h3>
 
+- 📈 Progresso constante 
+
+- 🔭Atualmente estou em busca de oportunidades como **desenvolvedor full-stack júnior**
+
+- 📚 No momento estou estudando o **Next.js 13.4, Nest.js e Redis**
 
 
 <div style="display:inline">
